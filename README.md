@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MORVS is the Houston‑based research and engineering brand of AI Analytics LLC. It publishes public‑record registers, builds data APIs, agent tools and encrypted‑communication software. The platform offers keyless, read‑only MCP interfaces for accessing datasets on federal contracts, lobbying, political contributions, and other public‑interest data. Founded by Dillon Parkes, MORVS focuses on machine intelligence, offensive security, and autonomous systems, providing both open data and specialized SDKs such as Swarm and QUORUM.
+MORVS is the Houston‑based research and engineering brand of AI Analytics LLC. It publishes public‑record registers, builds data APIs, agent tools, and encrypted‑communication software. The company focuses on intelligence, advanced systems, offensive security, and autonomous systems, providing open data for investigative reporters, watchdogs, and AI agents.
 
-**Areas:** Data · Public Records · AI · Research · Houston
+**Areas:** Company · Data · Intelligence · Public Records · AI
 
 ## MORVS on APIs.io
 
@@ -139,11 +139,10 @@ Spectral rulesets for the provider's contracts.
 
 - [MORVS API Rules](https://apis.io/rules/morvs-ai/morvs-ai-rules/)
 
-#### Security (3)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [MORVS Authentication](https://apis.io/security/morvs-ai/morvs-ai-authentication/)
 - [MORVS Domain Security](https://apis.io/security/morvs-ai/morvs-ai-domain-security/)
 - [MORVS Vulnerability Disclosure](https://apis.io/security/morvs-ai/morvs-ai-vulnerability-disclosure/)
 
@@ -169,26 +168,26 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 50.6** — developing · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 48.2** — developing · rubric 0.27.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 76.7 |
+| Discoverability | 67.9 |
 | Contract quality | 53.0 |
 | Contract governance | 79.1 |
-| Operational transparency | 31.4 |
-| Developer ergonomics | 42.9 |
-| Access clarity | 27.7 |
+| Operational transparency | 34.7 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 34.2 |
 
-**Agent readiness 39.3** — agent-ready (gated down from agent-native)
+**Agent readiness 34.0** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | unknown |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | bearer (partial credit) |
+| MCP Server | — |
+| Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
@@ -207,7 +206,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/morvs-ai/](https://apis.io/providers/morvs-ai/).
 
