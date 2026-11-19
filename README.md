@@ -1,4 +1,4 @@
-# morvs-ai
+# MORVS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,161 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-morvs-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://morvs.ai/
+MORVS is the Houston‑based research and engineering brand of AI Analytics LLC. It publishes public‑record registers, builds data APIs, agent tools and encrypted‑communication software. The platform offers keyless, read‑only MCP interfaces for accessing datasets on federal contracts, lobbying, political contributions, and other public‑interest data. Founded by Dillon Parkes, MORVS focuses on machine intelligence, offensive security, and autonomous systems, providing both open data and specialized SDKs such as Swarm and QUORUM.
+
+**Areas:** Data · Public Records · AI · Research · Houston
+
+## MORVS on APIs.io
+
+Everything profiled for MORVS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/morvs-ai/](https://apis.io/providers/morvs-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (32)
+
+- [MORVS Cfpb API](https://apis.io/apis/morvs-ai/morvs-ai-cfpb-api/) — The cfpb API from MORVS — 2 operation(s) for cfpb.
+- [MORVS Cisa API](https://apis.io/apis/morvs-ai/morvs-ai-cisa-api/) — The cisa API from MORVS — 2 operation(s) for cisa.
+- [MORVS Climate API](https://apis.io/apis/morvs-ai/morvs-ai-climate-api/) — USGS earthquake events
+- [MORVS Clinical API](https://apis.io/apis/morvs-ai/morvs-ai-clinical-api/) — The clinical API from MORVS — 2 operation(s) for clinical.
+- [MORVS Courts API](https://apis.io/apis/morvs-ai/morvs-ai-courts-api/) — The courts API from MORVS — 3 operation(s) for courts.
+- [MORVS Datasets API](https://apis.io/apis/morvs-ai/morvs-ai-datasets-api/) — The datasets API from MORVS — 97 operation(s) for datasets.
+- [MORVS Debarments API](https://apis.io/apis/morvs-ai/morvs-ai-debarments-api/) — The debarments API from MORVS — 3 operation(s) for debarments.
+- [MORVS Discovery API](https://apis.io/apis/morvs-ai/morvs-ai-discovery-api/) — Topics, stats, search, feed, today, openapi, sitemap, agencies
+- [MORVS Doj API](https://apis.io/apis/morvs-ai/morvs-ai-doj-api/) — The doj API from MORVS — 2 operation(s) for doj.
+- [MORVS Entity API](https://apis.io/apis/morvs-ai/morvs-ai-entity-api/) — The entity API from MORVS — 9 operation(s) for entity.
+- [MORVS Epa API](https://apis.io/apis/morvs-ai/morvs-ai-epa-api/) — The epa API from MORVS — 2 operation(s) for epa.
+- [MORVS Equitable Sharing API](https://apis.io/apis/morvs-ai/morvs-ai-equitable-sharing-api/) — Exact institution-only views over a dated, explicitly stale DOJ ESAC snapshot.
+- [MORVS Fda.510k API](https://apis.io/apis/morvs-ai/morvs-ai-fda-510k-api/) — FDA medical device 510(k) clearances
+- [MORVS Fda.adverse API](https://apis.io/apis/morvs-ai/morvs-ai-fda-adverse-api/) — FAERS drug adverse-event reports
+- [MORVS Fda.recalls API](https://apis.io/apis/morvs-ai/morvs-ai-fda-recalls-api/) — FDA drug/device/food enforcement actions
+- [MORVS Fed Enforcement API](https://apis.io/apis/morvs-ai/morvs-ai-fed-enforcement-api/) — The fed-enforcement API from MORVS — 1 operation(s) for fed-enforcement.
+- [MORVS Lobbying API](https://apis.io/apis/morvs-ai/morvs-ai-lobbying-api/) — The lobbying API from MORVS — 2 operation(s) for lobbying.
+- [MORVS Nhtsa API](https://apis.io/apis/morvs-ai/morvs-ai-nhtsa-api/) — The nhtsa API from MORVS — 2 operation(s) for nhtsa.
+- [MORVS Nih API](https://apis.io/apis/morvs-ai/morvs-ai-nih-api/) — The nih API from MORVS — 2 operation(s) for nih.
+- [MORVS Nsf API](https://apis.io/apis/morvs-ai/morvs-ai-nsf-api/) — The nsf API from MORVS — 2 operation(s) for nsf.
+- [MORVS Osha API](https://apis.io/apis/morvs-ai/morvs-ai-osha-api/) — The osha API from MORVS — 2 operation(s) for osha.
+- [MORVS Patents API](https://apis.io/apis/morvs-ai/morvs-ai-patents-api/) — The patents API from MORVS — 3 operation(s) for patents.
+- [MORVS Register API](https://apis.io/apis/morvs-ai/morvs-ai-register-api/) — Federal Register documents (rules, exec orders, notices)
+- [MORVS Sanctions API](https://apis.io/apis/morvs-ai/morvs-ai-sanctions-api/) — The sanctions API from MORVS — 3 operation(s) for sanctions.
+- [MORVS Screening API](https://apis.io/apis/morvs-ai/morvs-ai-screening-api/) — The screening API from MORVS — 3 operation(s) for screening.
+- [MORVS Sec.companies API](https://apis.io/apis/morvs-ai/morvs-ai-sec-companies-api/) — SEC filers by CIK or ticker; profiles, summaries
+- [MORVS Sec.filings API](https://apis.io/apis/morvs-ai/morvs-ai-sec-filings-api/) — The sec.filings API from MORVS — 3 operation(s) for sec.filings.
+- [MORVS Sec.financials API](https://apis.io/apis/morvs-ai/morvs-ai-sec-financials-api/) — XBRL financial facts + comparisons
+- [MORVS Sec.holdings API](https://apis.io/apis/morvs-ai/morvs-ai-sec-holdings-api/) — 13F institutional holdings
+- [MORVS Sec.insider API](https://apis.io/apis/morvs-ai/morvs-ai-sec-insider-api/) — Form 4 insider transactions + leaderboards
+- [MORVS Sec.sections API](https://apis.io/apis/morvs-ai/morvs-ai-sec-sections-api/) — Per-URL filing section bodies (shadow-billable)
+- [MORVS Weather API](https://apis.io/apis/morvs-ai/morvs-ai-weather-api/) — NOAA active hazard alerts
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [MORVS Agentic Access](https://apis.io/agentic-access/morvs-ai/morvs-ai-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [CoverageSnapshot](https://apis.io/schemas/morvs-ai/morvs-ai-coverage-snapshot/)
+- [DatasetCoverageCatalog](https://apis.io/schemas/morvs-ai/morvs-ai-dataset-coverage-catalog/)
+- [EquitableSharingEnvelope](https://apis.io/schemas/morvs-ai/morvs-ai-equitable-sharing-envelope/)
+- [RecentCisaKev](https://apis.io/schemas/morvs-ai/morvs-ai-recent-cisa-kev/)
+- [RecentFdaRecalls](https://apis.io/schemas/morvs-ai/morvs-ai-recent-fda-recalls/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Morvs Ai Context](https://apis.io/jsonld/morvs-ai/morvs-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MORVS API Rules](https://apis.io/rules/morvs-ai/morvs-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MORVS Authentication](https://apis.io/security/morvs-ai/morvs-ai-authentication/)
+- [MORVS Domain Security](https://apis.io/security/morvs-ai/morvs-ai-domain-security/)
+- [MORVS Vulnerability Disclosure](https://apis.io/security/morvs-ai/morvs-ai-vulnerability-disclosure/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [MORVS Rate Limits](https://apis.io/rate-limits/morvs-ai/morvs-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://morvs.ai/)
+- [Documentation](https://morvs.ai/guides/)
+- [API reference](https://morvs.ai/api/)
+- [Sign up](https://api.morvs.ai/api/v1/register/executive-orders)
+- [Support](https://api.morvs.ai/api/v1/help)
+- [Security](https://morvs.ai/.well-known/security.txt)
+- [Terms of service](https://morvs.ai/terms/)
+- [Privacy policy](https://morvs.ai/privacy/)
+- [GitHub](https://github.com/morvs-ai)
+
+## API Evangelist rating
+
+**Kin Score 50.6** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.7 |
+| Contract quality | 53.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.4 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 27.7 |
+
+**Agent readiness 39.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/morvs-ai/](https://apis.io/providers/morvs-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MORVS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/morvs-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
